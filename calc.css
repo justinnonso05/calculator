@@ -1,0 +1,141 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  background: whitesmoke;
+  text-align: center;
+}
+#calculator {
+  width: 300px; 
+  background: white;
+  position: absolute;
+  left: 7.75%;
+  top: 10%;
+  border-radius: 15px;
+  box-shadow: 0px 0px 2px 2px gray;
+  padding-bottom: 8px;
+  padding-bottom: 8px;
+}
+#view {
+  text-align: right;
+  color: black;
+  height: 40px;
+  font-size: 30px;
+  margin-top: 16px;
+  margin-bottom: 16px;
+  width: 90%;
+  outline: none;
+  border: 1px solid blue;
+  border-radius: 10px;
+  padding-right: 3px;
+  border-top: 2px solid blue;
+  border-bottom: 2px solid blue;
+}
+#view::placeholder {
+  color: black;
+}
+div > button {
+  position: relative;
+  padding: 6px;
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+  outline: none;
+  border: none; 
+  font-size: 30px;
+  font-weight: 700;
+  margin-bottom: 9px;
+  margin: 4px;
+  box-shadow: 1px 1px 2px 2px rgba(0,0,0,0.2);
+}
+div > button:active {
+  box-shadow: none;
+}
+#seven {
+  color: blue;
+  background: white;
+}
+#eight {
+  color: blue;
+  background: white;
+}
+#nine {
+  color: blue;
+  background: white;
+}
+
+#four {
+  color: blue;
+  background: white;
+}
+#five {
+  color: blue;
+  background: white;
+}
+#six {
+  color: blue;
+  background: white;
+}
+#three {
+  color: blue;
+  background: white;
+}
+#zero {
+  color: blue;
+  background: white;
+}
+#one {
+  color: blue;
+  background: white;
+}
+#two {
+  color: blue;
+  background: white;
+}
+#plus {
+  color: white;
+  background: blue;
+}
+#minus {
+  color: white;
+  background: blue;
+  
+}
+#times {
+  color: white;
+  background: blue;
+}
+
+#equals {
+  color: white;
+  background: blue;
+  height: 120px;
+  border-radius: 10px;
+  position: absolute;
+}
+#dot {
+  color: blue;
+  background: white;
+}
+#clear {
+  color: white;
+  background: blue;
+}
+
+#delete {
+  color: white;
+  background: blue;
+}
+#divide {
+  color: white;
+  background: blue;
+  
+}
+#percent {
+  color: white;
+  background: blue;
+  right: 214px;
+  top: 67px;
+}
