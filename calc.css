@@ -29,11 +29,11 @@ margin-top: 16px;
 margin-bottom: 16px;
 width: 90%;
 outline: none;
-border: 2px solid blue;
+border: 2px solid black;
 border-top-right-radius: 10px;
 border-top-left-radius: 10px;
 padding-right: 3px;
-border-top: 2px solid blue;
+border-top: 2px solid black;
 border-bottom: none;
 }
 #ans {
@@ -45,12 +45,12 @@ margin-top: -20px;
 margin-bottom: 16px;
 width: 90%;
 outline: none;
-border: 2px solid blue;
+border: 2px solid black;
 border-bottom-right-radius: 10px;
 border-bottom-left-radius: 10px;
 padding-right: 3px;
 border-top: none;
-border-bottom: 2px solid blue;
+border-bottom: 2px solid black;
 }
 #view::placeholder {
 color: black;
@@ -73,88 +73,88 @@ div > button:active {
 box-shadow: none;
 }
 #seven {
-color: blue;
+color: black;
 background: white;
 }
 #eight {
-color: blue;
+color: black;
 background: white;
 }
 #nine {
-color: blue;
+color: black;
 background: white;
 }
 
 #four {
-color: blue;
+color: black;
 background: white;
 }
 #five {
-color: blue;
+color: black;
 background: white;
 }
 #six {
-color: blue;
+color: black;
 background: white;
 }
 #three {
-color: blue;
+color: black;
 background: white;
 }
 #zero {
-color: blue;
+color: black;
 background: white;
 }
 #one {
-color: blue;
+color: black;
 background: white;
 }
 #two {
-color: blue;
+color: black;
 background: white;
 }
 #plus {
 color: white;
-background: blue;
+background: black;
 }
 #minus {
 color: white;
-background: blue;
+background: black;
 
 }
 #times {
 color: white;
-background: blue;
+background: black;
 }
 
 #equals {
 color: white;
-background: blue;
+background: black;
 height: 126px;
 border-radius: 10px;
 position: absolute;
 }
 #dot {
-color: blue;
+color: black;
 background: white;
 }
 #clear {
 color: white;
-background: blue;
+background: black;
 width: 130px;
 }
 
 #delete {
 color: white;
-background: blue;
+background: black;
 }
 #divide {
 color: white;
-background: blue;
+background: black;
 
 }
 #dot {
-color: blue;
+color: black; 
 background: white;
 right: 214px;
 top: 67px;
